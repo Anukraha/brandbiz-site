@@ -1,5 +1,13 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js"
+  "/about/about-dark": "pages/about/about-dark.html",
+  "/contact/contact-dark": "pages/contact/contact-dark.html",
+  "/contact/contact-dark1": "pages/contact/contact-dark1.html",
+  "/home/home1-dark": "pages/home/home1-dark.html",
+  "/home/home2-dark": "pages/home/home2-dark.html",
+  "/": "pages/index.html",
+  "/works/works-dark": "pages/works/works-dark.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
 }
