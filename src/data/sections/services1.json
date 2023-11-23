@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Strategy Consulting",
+        "icon": "pe-7s-gleam",
+        "content": "Strategy consultants work closely with businesses to analyze their identify opportunities and challenges, and devise a roadmap for success."
+    },
+    {
+      "id": 2,
+      "title": "Growth Consulting",
+      "icon": "pe-7s-phone",
+      "content": "Growth consultants work closely with organizations to identify growth opportunities, develop strategies, and implement initiatives."
+    },
+    {
+      "id": 3,
+      "title": "E-Business Consulting",
+      "icon": "pe-7s-magic-wand",
+      "content": " E-business consultants work with organizations to develop and implement effective strategies for conducting business in the digital realm."
+    }
+]

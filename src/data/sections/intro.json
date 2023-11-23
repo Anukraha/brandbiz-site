@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Zika",
+      "second": "Designs"
+    },
+    "content": "Zika crafts spaces and designs experiences that goes beyond conventional thinking.",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Brand Monk",
+      "second": "Food & Beverages"
+    },
+    "content": "Franchising | Restaurant Consulting | Kitchen Equipments Supply",
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Brand Monk",
+      "second": "Consulting"
+    },
+    "content": "Enlightening Brands and Business Digitally",
+    "image": "/img/slid/02.jpg"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "Brand Monk",
+      "second": "Academy"
+    },
+    "content": "THE BEST ACADEMY FOR DIGITAL MARKETING",
+    "image": "/img/slid/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Zutail",
+    "content": "The Best services for your pets",
+    "image": "/img/slid/6.jpg"
+  },
+  {
+    "id": 6,
+    "title": {
+      "first": "Vision",
+      "second": "Traders"
+    },
+    "content": " Trading and wholesaling of quality tested products",
+    "image": "/img/slid/5.jpg"
+  }
+]

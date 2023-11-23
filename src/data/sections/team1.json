@@ -1,0 +1,40 @@
+[
+  
+  {
+    "id": 1,
+    "image": "/img/team/6.jpg",
+    "name": "Franchising",
+    "height": 200,
+    "width": 200
+    
+  },
+  {
+    "id": 2,
+    "image": "/img/team/03.jpg",
+    "name": "Food & Beverages",
+    "height": 200,
+    "width": 200
+  },
+  
+  {
+    "id": 3,
+    "image": "/img/team/5.jpg",
+    "name": "Digital Marketing",
+    "height": 200,
+    "width": 200
+  },
+  {
+    "id": 4,
+    "image": "/img/team/02.jpg",
+    "name": "Retail",
+    "height": 200,
+    "width": 200
+  },
+  {
+    "id": 5,
+    "image": "/img/team/7.jpg",
+    "name": "Business Strategy",
+    "height": 200,
+    "width": 200
+  }
+]
